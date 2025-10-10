@@ -1,0 +1,14 @@
+.user-info {
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.user-info-pressed {
+    margin: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: inset 5px 5px 5px gray;
+
+}
